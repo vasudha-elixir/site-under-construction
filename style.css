@@ -45,7 +45,7 @@ body {
 
 .nav-bar {
     background-color: rgb(0, 0, 0, 0);
-    padding: 10px 30px;
+    padding: 10px 100px;
     display: flex;
     justify-content: space-between;
 }
@@ -92,8 +92,8 @@ a:link {
 .hero {
     display: flex;
     justify-content: space-between;
-    margin: 100px 150px;
-    padding: 10px 10px;
+    margin: 100px 0px;
+    padding: 10px 100px;
 }
 
 .earth {
