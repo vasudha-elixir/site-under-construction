@@ -92,7 +92,7 @@ a:link {
 .hero {
     display: flex;
     justify-content: space-between;
-    margin: 100px 0px;
+    margin: 50px 0px;
     padding: 10px 100px;
 }
 
