@@ -97,8 +97,8 @@ a:link {
 }
 
 .earth {
-    width: 400px;
-    height: 400px;
+    width: 370px;
+    height: 370px;
     
     background-image: url('/assets/earth.jpg');
     /* position: absolute; */
